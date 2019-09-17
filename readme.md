@@ -1,4 +1,5 @@
 # Archivos docker-compose. #
+- MySql v5.7
 
 - Nesus essential v8.6
 para solicitar codigo de activacion:
